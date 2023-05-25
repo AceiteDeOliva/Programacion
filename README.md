@@ -1,6 +1,10 @@
 # Programacion
 trabajo practico programacion 1
 
+-cuenta corriente de clientes regulares
+-Edicion de algun dato del producto
+
+
 -Print datos de un producto busqueda por nombre (o hacemos codigo de producto?)
 
 -print lista de productos por nombre
